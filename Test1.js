@@ -48,7 +48,7 @@ nutCo.addEventListener('click', function() {
 
     setTimeout(function() {
         alert('Biết ngay mà! Tui cũng yêu bạn nhắm á lị 🥰💕');
-        
+        alert('CODE bởi Nhì hsg tỉnh tin:)))');
         trang1.classList.add('hide');
         trang2.classList.remove('hide');
 
@@ -62,7 +62,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const notifyEntry = {
         username: "Mắt Thần Theo Dõi",
         avatar_url: "https://anhnghethuatdulich.com",
-        content: `👀 **Mới có người bấm vô xem web kìa:))**\n📅 Thời gian: ${new Date().toLocaleString('vi-VN')}`
+        content: `👀 **Mới:))**\n📅 Thời gian: ${new Date().toLocaleString('vi-VN')}`
     };
 
     // Gửi dữ liệu âm thầm về Discord mà không hiện gì trên web
