@@ -54,7 +54,6 @@ nutCo.addEventListener('click', function() {
 
     }, 500); 
 });
-alert("code bởi nhì hsg tỉnh tin :))")
 // TỰ ĐỘNG GỬI THÔNG BÁO VỀ DISCORD KHI CÓ NGƯỜI VỪA MỞ WEB
 window.addEventListener("DOMContentLoaded", () => {
     // DÁN LINK DISCORD WEBHOOK BẠN VỪA COPY VÀO GIỮA HAI DẤU NGOẶC KÉP Ở DƯỚI
