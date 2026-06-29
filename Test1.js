@@ -48,7 +48,6 @@ nutCo.addEventListener('click', function() {
 
     setTimeout(function() {
         alert('Biết ngay mà! Tui cũng yêu bạn nhắm á lị 🥰💕');
-        alert('CODE bởi Nhì hsg tỉnh tin:)))');
         trang1.classList.add('hide');
         trang2.classList.remove('hide');
 
